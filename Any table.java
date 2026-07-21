@@ -7,5 +7,6 @@ class Main{
       int prod = n*i;
       System.out.println(n+"*"+i+"="+prod);
     }
+    sc.close();
   }
 }
