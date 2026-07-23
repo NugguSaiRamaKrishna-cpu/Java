@@ -9,5 +9,6 @@ class Main{
       sum = sum + i;
     }
     System.out.println("The sum of "+n+" natural numbers are: "+sum);
+    sc.close();
   }
 }
